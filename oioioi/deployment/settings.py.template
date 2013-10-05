@@ -105,7 +105,7 @@ USE_UNSAFE_EXEC = True
 USE_LOCAL_COMPILERS = True
 
 # Uncomment this line to limit availability of programming languages.
-#SUBMITTABLE_EXTENSIONS = ['c', 'cpp', 'pas']
+#SUBMITTABLE_EXTENSIONS = ['c', 'cpp', 'py', 'pas']
 
 
 # EXTRA MODULES
